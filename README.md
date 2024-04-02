@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Milena and I am a senior at Arizona State University. I am graduating this summer 2024 with a bachelor in Business Technology.
 
 <!--
 **mperic1/mperic1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
